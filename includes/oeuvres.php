@@ -1,4 +1,9 @@
 <?php
+/**
+ * Source unique de données du site.
+ * Tableau multidimensionnel répertoriant les œuvres de la galerie.
+ * Chaque œuvre est un tableau associatif (id, title, artiste, image, description).
+ */
     $oeuvres = [
         [
             'id' => 1,

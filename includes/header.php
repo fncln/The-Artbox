@@ -9,6 +9,7 @@
     <title>The ArtBox</title>
 </head>
 <body>
+    <!-- Structure commune : En-tête et navigation principale du site -->
     <header>
         <a href="index.php"><img src="img/logo.png" alt="Logo Artbox" id="logo"></a>
         <nav>
